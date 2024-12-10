@@ -1,1 +1,5 @@
-
+#include<stdio.h>
+int main()
+{
+ printf("\nSize of integer=%d",size0f(int));
+ }
