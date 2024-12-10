@@ -1,8 +1,13 @@
 #include<stdio.h>
 int main()
 {
+<<<<<<< HEAD
   int a=10, b=20,res;
   res=a+b;
   printf("\nResult=%d",res);
  }
+=======
+	printf("i am reading");
+}
+>>>>>>> lab_branch
 
