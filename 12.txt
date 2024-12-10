@@ -2,6 +2,7 @@
 int main()
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 int a=10,b=20,temp;
 printf("before swaping a=%d,b=%d",a,b);
 temp=a;
@@ -10,9 +11,23 @@ b=temp;
 printf("after swaping a=%d,b=%d",a,b);
 }
 =======
+=======
+<<<<<<< HEAD
+>>>>>>> 00109c2e5df3f463f3cc60c983bf2d9d8d632185
   int a=10, b=20,res;
   res=a+b;
   printf("\nResult=%d",res);
  }
+<<<<<<< HEAD
 >>>>>>> 99ea09749ccfac9cc3fb9681011d5cd94f0e02c9
+=======
+=======
+	printf("i am reading");
+}
+>>>>>>> lab_branch
+>>>>>>> 00109c2e5df3f463f3cc60c983bf2d9d8d632185
 
+=======
+ printf("\nSize of integer=%d",size0f(int));
+ }
+>>>>>>> Saba
