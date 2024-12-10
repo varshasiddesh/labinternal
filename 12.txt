@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+<<<<<<< HEAD
 int a=10,b=20,temp;
 printf("before swaping a=%d,b=%d",a,b);
 temp=a;
@@ -8,4 +9,10 @@ a=b;
 b=temp;
 printf("after swaping a=%d,b=%d",a,b);
 }
+=======
+  int a=10, b=20,res;
+  res=a+b;
+  printf("\nResult=%d",res);
+ }
+>>>>>>> 99ea09749ccfac9cc3fb9681011d5cd94f0e02c9
 
