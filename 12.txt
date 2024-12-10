@@ -2,6 +2,7 @@
 int main()
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   int a=10, b=20,res;
   res=a+b;
   printf("\nResult=%d",res);
@@ -11,3 +12,7 @@ int main()
 }
 >>>>>>> lab_branch
 
+=======
+ printf("\nSize of integer=%d",size0f(int));
+ }
+>>>>>>> Saba
